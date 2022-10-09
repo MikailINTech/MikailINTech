@@ -9,11 +9,3 @@ Holder of an Engineer's Degree and a Master of Science in AI, I have experience 
 *   🌍  I'm based near Paris
 *   🧠  Recently graduated, I'm still learning a lot by competing on [Kaggle](https://www.kaggle.com/mikailduzenli) or trying to contribute to opensource.
 *   🤝  I'm open to collaborating on meaningful projects
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/MikailINTech" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/mikailduzenli/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
