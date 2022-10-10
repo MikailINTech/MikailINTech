@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mikail
 ======================================================================================================================================
-Recently graduated student in AI
+Recently graduated student in AI :tea:
 --------------------------------
 
 Holder of an Engineer's Degree and a Master of Science in AI, I have experience in both research and industry. While job hunting, I'm trying to contribute to open source and learn new stuff in Machine Learning.
@@ -8,7 +8,24 @@ Holder of an Engineer's Degree and a Master of Science in AI, I have experience 
 *   🌍  I'm based near Paris
 *   🧠  Recently graduated, I'm still learning a lot by competing on [Kaggle](https://www.kaggle.com/mikailduzenli) or trying to contribute to opensource.
 *   🤝  I'm open to collaborating on meaningful projects
-*   ⚡  You might run into me on [CodinGame](https://www.codingame.com/profile/a0476e90f8136eaf23d3c80aa55ad79d9921024)   
+*   ⚡  You might run into me on [CodinGame](https://www.codingame.com/profile/a0476e90f8136eaf23d3c80aa55ad79d9921024)
+
+### :man_student: I studied many fields, among them: 
+* :heavy_plus_sign: Algebra.
+* :bar_chart: Advanced probabilities.
+* :wavy_dash: Signal processing.
+* :gear: Optimization.
+* :computer: Machine Learning
+* :alien: Deep learning
+* :robot: Deep Reinforcement Learning.
+* :eye_speech_bubble: Computer Vision.
+* :grey_question: Natural Language Processing (NLP)
+* :vhs: Advanced databases
+* :arrows_clockwise: Knowledge representation, planning, and reasoning
+* :love_letter: Ethics
+* :video_game: Game theory
+* :cloud: Point clouds and 3D modeling
+* :deciduous_tree: Monte-Carlo search and games
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
