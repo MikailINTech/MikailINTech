@@ -8,7 +8,7 @@ Holder of an Engineer's Degree and a Master of Science in AI, I have experience 
 *   🌍  I'm based near Paris
 *   🧠  Recently graduated, I'm still learning a lot by competing on [Kaggle](https://www.kaggle.com/mikailduzenli) or trying to contribute to opensource.
 *   🤝  I'm open to collaborating on meaningful projects
-*   ⚡  You might find me on [CodinGame](https://www.codingame.com/profile/a0476e90f8136eaf23d3c80aa55ad79d9921024)   
+*   ⚡  You might run into me on [CodinGame](https://www.codingame.com/profile/a0476e90f8136eaf23d3c80aa55ad79d9921024)   
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
