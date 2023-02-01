@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mikail
 ======================================================================================================================================
-Data Scientist :tea:
+I'm a Data Scientist :tea:
 --------------------------------
 
 Holder of an Engineer's Degree and a Master of Science in AI, I have experience in both research and industry. I try to contribute to open source and learn new stuff in Machine Learning.
